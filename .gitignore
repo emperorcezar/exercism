@@ -7,10 +7,11 @@ pom.properties
 *jar
 /lib/
 /classes/
-/target/
+**/target/
 /checkouts/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
 .nrepl-port
+*.iml
